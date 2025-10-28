@@ -28,7 +28,7 @@ menu-driven interface to apply performance tweaks, disable optional services, an
 
 ## ▶️ How to run
 
-1. Download `PatronDarwin.ps1` (this script).
+1. Download `main.ps1` (this script).
 2. Right-click **PowerShell** → **Run as Administrator**.
 3. (If needed) Temporarily allow local script execution:
    ```powershell
